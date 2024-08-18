@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all .log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore specific file
+path/to/specific-file.txt
+package-lock.json
